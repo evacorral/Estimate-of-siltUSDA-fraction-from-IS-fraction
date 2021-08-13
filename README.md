@@ -8,7 +8,7 @@ Instructions for using the program:
 
 • Enter your data in the Input_data.xlsx file, that is, sand, silt and clay according to the International System of each soil samples. These data must be written as a percentage and with a single decimal figure; if they are entered with two or more decimal figures, the program will not return any results.
 
-• Open the file Computing siltUSDA, in R (NO SÉ SI HABRÍA QUE PONER EN QUÉ VERSIÓN DE R SE HA CREADO)
+• Open the file Computing siltUSDA, in R.
 
 • Run the code, then, the Computing_siltUSDA function will be created in the Environment. Execute this function next.
 
