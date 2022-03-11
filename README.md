@@ -1,6 +1,6 @@
 # Estimating USDA silt fraction from textural fractions in the International System
 
-This program provides the USDA silt fraction (0.002-0.05 mm) from the International System fractions: clay (0-0.002 mm), silt (0.002-0.02 mm) and sand (0.02-2 mm). A detailed explanation of the methodology followed to obtain these values can be consulted at XXXX
+This program provides the USDA silt fraction (0.002-0.05 mm) from the International System fractions: clay (0-0.002 mm), silt (0.002-0.02 mm) and sand (0.02-2 mm). A detailed explanation of the methodology followed to obtain these values can be consulted at https://doi.org/10.1016/j.geoderma.2022.115783
 
 Instructions for using the program:
 
